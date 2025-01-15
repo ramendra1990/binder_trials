@@ -1,4 +1,4 @@
-name: example-environment
+name: geo_environment
 channels:
   - conda-forge
 dependencies:
@@ -6,3 +6,4 @@ dependencies:
   - numpy=1.26.4
   - matplotlib=3.10.0
   - watermark=2.5.0
+  - osgeo=3.10.0
