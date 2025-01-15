@@ -1,8 +1,8 @@
-name: binder-environment
+name: example-environment
 channels:
   - conda-forge
 dependencies:
-  - python=3.12
-  - osgeo=3.10.0
+  - python=3.12.8
+  - numpy=1.26.4
   - matplotlib=3.10.0
   - watermark=2.5.0
