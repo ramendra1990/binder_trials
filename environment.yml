@@ -7,3 +7,4 @@ dependencies:
   - matplotlib=3.10.0
   - watermark=2.5.0
   - gdal=3.10.0
+  - richdem=2.3.0
